@@ -7,7 +7,7 @@ FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE
 
 ```bash
 Criando usuário deploy:
-useradd -m -p [[pluszap]] -s /bin/bash -G sudo deploy
+useradd -m -p [[onnzap]] -s /bin/bash -G sudo deploy
 usermod -aG sudo deploy
 ```
 
